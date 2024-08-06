@@ -58,7 +58,7 @@ Scalability and Performance:
 
 Optimize your application for performance by caching, load balancing, and optimizing database queries.
 Design the application with scalability in mind to handle increased traffic and load.
-Remember to document your code and follow best practices for security, performance, and maintainability throughout the development process. Additionally, consider implementing features like search functionality, product reviews, and order tracking to enhance the user experience of your e-commerce website.
+Remember to document your code and follow best practices for security, performance, and maintainability throughout the development process. Additionally, consider implementing features like search functionality, product reviews, and order tracking to enhance the user experience of your e-commerce website 
 
 
 
